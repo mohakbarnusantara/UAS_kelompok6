@@ -3,7 +3,7 @@
 #include <iomanip>
 using namespace std;
 
-const int MAX_AKUN = 100;
+const int MAX_AKUN = 5;
 const double BUNGA = 0.02;
 
 // Array paralel untuk menyimpan data akun
